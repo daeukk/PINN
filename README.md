@@ -20,14 +20,14 @@ The resulting Physics-Informed Neural Network (PINN) provides more robust, inter
 ```
 ├── NN.ipynb               # Baseline neural network model for pH prediction
 ├── PINN.ipynb             # Physics-Informed Neural Network with embedded physical constraints
-├── kalman-filter.ipynb    # Kalman Filter for preprocessing and noise reduction
+├── Kalman.ipynb    # Kalman Filter for preprocessing and noise reduction
 └── README.md              # This file
 ```
 
 ## 🚀 How to Run the Notebooks
 
 1. **Data Preprocessing** 
-   - Run `kalman-filter.ipynb` to smooth sensor data (e.g., RGB values).
+   - Run `Kalman.ipynb` to smooth sensor data (e.g., RGB values).
    - Save/export filtered data if used for training.
 
 2. **Train Baseline Neural Network**
