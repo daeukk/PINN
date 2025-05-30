@@ -37,8 +37,8 @@ The resulting Physics-Informed Neural Network (PINN) provides more robust, inter
 3. **Train Physics-Informed Neural Network**
    - Open `PINN.ipynb`
    - Train a PINN with custom loss functions based on:
-     - Beer-Lambert absorbance: $begin:math:text$ A = \\varepsilon c \\ell $end:math:text$
-     - Henderson-Hasselbalch equilibrium: $begin:math:text$ \\text{pH} = \\text{p}K_a + \\log_{10}(\\text{R/B} + \\varepsilon) $end:math:text$
+     - Beer-Lambert law
+     - Henderson-Hasselbalch equilibrium
 
 ---
 
