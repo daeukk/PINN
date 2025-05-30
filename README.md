@@ -21,8 +21,6 @@ The resulting Physics-Informed Neural Network (PINN) provides more robust, inter
 ├── NN.ipynb               # Baseline neural network model for pH prediction
 ├── PINN.ipynb             # Physics-Informed Neural Network with embedded physical constraints
 ├── kalman-filter.ipynb    # Kalman Filter for preprocessing and noise reduction
-├── data/                  # (Optional) directory or link for dataset
-├── figures/               # (Optional) model evaluation plots
 └── README.md              # This file
 ```
 
